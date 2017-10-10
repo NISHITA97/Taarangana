@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/about"
+
+            android:title="ABOUT US" />
+        <item
+            android:id="@+id/events"
+
+            android:title="EVENTS" />
+        <item
+            android:id="@+id/pronight"
+
+            android:title="PRONIGHT" />
+        <item
+            android:id="@+id/gallery"
+
+            android:title="GALLERY" />
+        <item
+            android:id="@+id/sponsors"
+
+            android:title="SPONSORS" />
+    </group>
+
+
+
+</menu>
